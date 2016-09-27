@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- configures  -->
+<configs>
+	<!-- priority 1 High-->
+	<plugin name='iExammple_001'  mode="master" guid ='iExammple_001' status="1">
+		<config name="var1" type="int" >588</config>
+		<config name="var2" type="string">iExammple_001</config>
+		<config name="var3" type="long" >28228528</config>
+		<config name="var4" type="double">253.5822</config>
+		<config name="var5" type="float" >2.5655</config>
+		<config name="var6" type="bool" >true</config>
+		<config name="var7" type="json"  >{"k1":"v1"}</config>
+		<config name="var8" type="serialize"  >a:1:{s:2:"k1";s:2:"v1";}</config>	
+	</plugin>
+	<!-- priority 2 -->
+
+
+	<!-- priority 3 -->
+
+
+	<!-- priority 4 -->
+
+
+	<!-- priority 5 -->
+
+
+	<!-- priority 6 -->
+
+
+	<!-- priority 7 -->
+
+
+	<!-- priority 8 -->
+
+
+	<!-- priority 9 -->
+
+
+	<!-- priority 10 -->
+
+</configs>
