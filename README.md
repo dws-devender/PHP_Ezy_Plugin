@@ -1,2 +1,2 @@
-# PHP_Ezy_Plugin
+# PHP_Ezy_Plugin 
 Plugin Module for core PHP
